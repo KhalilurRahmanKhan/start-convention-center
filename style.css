@@ -15,3 +15,38 @@
     margin-bottom: 10px;
     font-size: 12px;
 }
+.package{
+    width: 250px;
+    padding: 20px;
+    padding-top: 60px;
+}
+.package p,li{
+    font-size: 12px;
+    color: rgb(128, 125, 125);
+}
+.package li{
+    padding-left: 5px;
+}
+.package a{
+    font-size: 12px;
+}
+.package:nth-child(3){
+    background-color: #3F87F5;
+    color: white;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.package:nth-child(3) li{
+    color: white;
+}
+.package:nth-child(3) p{
+    color: white;
+}
+.package:nth-child(3) a{
+    background-color: white;
+    padding: 7px 50px;
+    border-radius: 25px;
+}
+.badge{
+    right: 10%;
+}

@@ -50,3 +50,16 @@
 .badge{
     right: 10%;
 }
+
+.question-content{
+    width: 50%;
+}
+.question-img{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.question-img img{
+    width: 80%;
+}

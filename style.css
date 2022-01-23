@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    font-weight: 700;
+}
+.carousel-item img{
+    height: 500px;
+}
+.carousel-button{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: blue;
+    margin-bottom: 10px;
+    font-size: 12px;
+}

@@ -65,6 +65,21 @@
 }
 
 
+.toast-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    border-left: 5px solid blue;
+}
+.toast-content P{
+    padding-top: 15PX;
+}
+.toast-content i{
+    font-size: 20px;
+    color: blue;
+}
+
 footer{
     height: 200px;
     background-color: #0B0D17;
